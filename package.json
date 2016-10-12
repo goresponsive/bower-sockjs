@@ -1,0 +1,19 @@
+{
+  "name": "bower-sockjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sockjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goresponsive/bower-sockjs.git"
+  },
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goresponsive/bower-sockjs/issues"
+  },
+  "homepage": "https://github.com/goresponsive/bower-sockjs#readme"
+}
